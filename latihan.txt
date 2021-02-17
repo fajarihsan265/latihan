@@ -2,4 +2,4 @@ Latihan 1
 Belajar git
 belajar github
 Latihan membuat website
-Latihan desain
+Latihan css
